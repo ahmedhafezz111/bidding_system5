@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product_name": "house of hauteville chess",
+      "title": "chess",
+      "image_url": "https://i.imgur.com/yXkDz1Q.jpg",
+      "start_price": 250
+    },
+    {
+      "id": "2",
+      "product_name": "antique telephone",
+      "title": "telephone",
+      "image_url": "https://i.imgur.com/Hu99T3C.jpg",
+      "start_price": 1000
+    },
+    {
+      "id": "3",
+      "product_name": "antique compass",
+      "title": "compass",
+      "image_url": "https://i.imgur.com/nPCmQY9.jpg",
+      "start_price": 500
+    },
+    {
+      "id": "4",
+      "product_name": "antique pocket clock",
+      "title": "clock",
+      "image_url": "https://i.imgur.com/nPCmQY9.jpg",
+      "start_price": 1200
+    },
+    {
+      "id": "5",
+      "product_name": "antique sand clock",
+      "title": "sand clock",
+      "image_url": "https://i.imgur.com/tJsxfiY.jpg",
+      "start_price": 3500
+    },
+    {
+      "id": "6",
+      "product_name": "old egyptian pound",
+      "title": "old money",
+      "image_url": "https://i.imgur.com/Ff1CKVN.jpg",
+      "start_price": 50
+    },
+    {
+      "id": "0555",
+      "product_name": " Premium Antique Chess Board",
+      "title": "chess",
+      "image_url": "https://i.imgur.com/2vCXqOR.jpg",
+      "start_price": 500
+    }
+  ]
+}
